@@ -11,7 +11,7 @@ Personal portfolio and resume site built on AWS infrastructure.
 
 ## Tech Stack
 - HTML/CSS
-- AWS S3, CloudFront, ACM, Route 53
+- AWS S3, CloudFront, ACM
 - Linux for development and deployment
 
 ## Live Site
